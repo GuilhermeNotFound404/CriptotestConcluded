@@ -1,0 +1,22 @@
+E:\3I3\adm\ipssi\TesteCriptografia\Criptografia\bin\Debug\Criptografia.exe.config
+E:\TesteCriptografia\Criptografia\bin\Debug\Criptografia.exe.config
+E:\TesteCriptografia\Criptografia\bin\Debug\Criptografia.exe
+E:\TesteCriptografia\Criptografia\bin\Debug\Criptografia.pdb
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.csprojResolveAssemblyReference.cache
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.Form1.resources
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.Cache
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.exe
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\obj\Debug\Criptografia.csprojResolveAssemblyReference.cache
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\obj\Debug\Criptografia.Form1.resources
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\sql\Desktop\CriptoTest-main\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.Cache
+E:\Nova pasta\CriptoTest-main\Criptografia\bin\Debug\Criptografia.exe.config
+E:\Nova pasta\CriptoTest-main\Criptografia\obj\Debug\Criptografia.exe
+E:\Nova pasta\CriptoTest-main\Criptografia\obj\Debug\Criptografia.pdb
